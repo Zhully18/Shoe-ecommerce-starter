@@ -1,0 +1,22 @@
+.about{
+    padding: 30px;
+}
+.about h2{
+    font-size: 46px;
+    margin-bottom: 15px;
+    background: red;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+.about p{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.about h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 42px;
+    text-align: center;
+}
